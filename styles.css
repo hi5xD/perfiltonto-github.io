@@ -1,0 +1,74 @@
+    body {
+        background-image: url(https://content.skyscnr.com/m/1ad0276972def4d3/original/GettyImages-517552653.jpg?crop=1224px:647px&position=attention);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    #container {
+        background-color: rgb(255, 255, 255);
+        width: 1000px;
+        height: 800px;
+        display: flex;
+        border-radius: 10px;
+        position: absolute;
+        left: 500px;
+        
+
+
+
+
+    }
+
+
+    img {
+        border-radius: 100%;
+        border: 5px solid #ffffff;
+        width: 250px;
+        position: absolute; 
+        height: 260px;
+        top: 100px;
+        left: 60px;
+        
+        
+    }
+    .x{
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        
+
+    }
+    .z {
+        color: black;
+    }
+    .two {
+        background-color: white;
+        color: grey;
+        position: absolute;
+        top: 365px;
+        font-size: x-large;
+        left: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+
+
+
+    }
+    .two > button {
+        width: 114px;
+        height: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        border: none;
+        font-size:large;
+        align-items: center;
+    }
+    .three {
+        background-color: deepskyblue;
+        order: initial;
+        justify-content: start;
+        width: 1000px;
+        height: 200px;
+        border-radius: 10px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
